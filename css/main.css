@@ -1,0 +1,39 @@
+.lessonwords{
+    
+    font-size:x-large;
+    text-align:center;
+}
+
+button{
+    margin:3px;
+}
+
+.keycover{
+    background-color:rgba(0,18,255,0.1);
+}
+
+.click{
+    background-color: #dc3545;
+    border: 1px solid #dc3545;
+    color:white;
+}
+
+.used{
+    background-color: #dc3545;
+    
+    color: white;
+}
+.c{
+    background-color: #198754;
+    color:white;
+}
+
+.timer{
+    /* display:flex; */
+    /* background-color:rgba(0,18,255,0.1); */
+}
+
+.ms{
+    height: 200px;
+    overflow: auto;
+}
